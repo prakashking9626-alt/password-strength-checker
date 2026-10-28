@@ -1,0 +1,7 @@
+# CodeNova Password Strength Checker Dependencies
+#
+# This project is intentionally built using Python 3 standard library modules only
+# (math, re, collections, getpass, tkinter, unittest, dataclasses, pathlib).
+#
+# No external pip packages or paid API services are required.
+# Python 3.8+ is recommended.
